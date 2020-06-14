@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.image img{
+    width: 200px;
+    border-radius: 50%;
+}
+ #bg{
+     background-color: chartreuse;
+ }
+ .profile-dec h3{
+
+    color: chartreuse;
+ }
+ .profile-dec h5{
+     color: chocolate;
+ }
+ .profile-dec p{
+     color: crimson;
+ }
